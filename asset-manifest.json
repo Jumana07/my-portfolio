@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Jumana07/my-portfolio/static/css/main.aa0c127f.css",
+    "main.js": "/Jumana07/my-portfolio/static/js/main.c9e14b6d.js",
+    "static/media/bg.jpg": "/Jumana07/my-portfolio/static/media/bg.367c660ca9cf88263a25.jpg",
+    "index.html": "/Jumana07/my-portfolio/index.html",
+    "main.aa0c127f.css.map": "/Jumana07/my-portfolio/static/css/main.aa0c127f.css.map",
+    "main.c9e14b6d.js.map": "/Jumana07/my-portfolio/static/js/main.c9e14b6d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa0c127f.css",
+    "static/js/main.c9e14b6d.js"
+  ]
+}
