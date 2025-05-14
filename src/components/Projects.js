@@ -4,7 +4,7 @@ function Projects() {
       , link: 'https://github.com/Jumana07/Quiz-App',live:'https://jumana07.github.io/Quiz-App/',description:'description text ' },
     { name: 'Online Bookstore', tech: 'HTML, JS',image:process.env.PUBLIC_URL + '/assets/imgbook.png', link: 'https://github.com/Jumana07/BOOKSTORE',description:'description text ' },
     { name: 'Price-Enquiry-Chatbot', tech: 'HTML, JS', image:process.env.PUBLIC_URL +'/assets/imgchatbot.png',link:'https://github.com/Jumana07/PriceEnquiry-Chatbot',live: 'https://jumana07.github.io/PriceEnquiry-Chatbot/',description:'description text ' },
-    { name: 'Hair-Spa Promo', tech: 'HTML, JS',image:process.env.PUBLIC_URL + 'assets/imghairday.png', link:'https://github.com/Jumana07/Hair-DayPromo',live: 'https://jumana07.github.io/Hair-DayPromo/',description:'description text ' },
+    { name: 'Hair-Spa Promo', tech: 'HTML, JS',image:process.env.PUBLIC_URL + '/assets/imghairday.png', link:'https://github.com/Jumana07/Hair-DayPromo',live: 'https://jumana07.github.io/Hair-DayPromo/',description:'description text ' },
     { name: 'Simple Portfolio Page', tech: 'HTML, JS',image:process.env.PUBLIC_URL +'/assets/imgport.png', link:'https://github.com/Jumana07/My-Simple-Portfolio-Project'
 ,live: 'https://jumana07.github.io/My-Simple-Portfolio-Project/',description:'description text ' }
   ];
